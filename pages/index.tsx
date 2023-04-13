@@ -22,7 +22,7 @@ const Home: NextPage = () => {
           rel="noreferrer"
           className="border rounded-2xl py-1 px-4 text-slate-500 text-sm mb-5 hover:scale-105 transition duration-300 ease-in-out"
         >
-          Utilizado por mais de <span className="font-semibold">3</span> usuários!
+          Utilizado por mais de <span className="font-semibold">3 zilhões</span> de usuários!
         </a>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-slate-900 sm:text-7xl">
           Restauração de fotos antigas{" "}
@@ -35,9 +35,13 @@ const Home: NextPage = () => {
 
         <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
           Você tem fotos antigas ou borradas? Nossa IA baseada em Redes Adversárias Generativas (GANs) pode restaurá-las!
+        </p>
+        <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
           Restaure suas fotos hoje mesmo, 100% grátis!
-          * Exemplo apresentado na Oficina sobre GAN do Laboratório de Aprendizado de Máquinas em Finanças e Organizações, da Universidade de Brasília (Lamfo/UnB).
-          ** Adaptado de projeto de autoria de Nutlope & Vercel (veja abaixo).
+        </p>
+        <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
+          * Exemplo apresentado na Oficina sobre GAN do Laboratório de Aprendizado de Máquinas em Finanças e Organizações, da Universidade de Brasília (Lamfo/UnB). 
+          Adaptado de projeto de autoria de Nutlope & Vercel (veja abaixo).
         </p>
         <div className="flex justify-center space-x-4">
           <a
