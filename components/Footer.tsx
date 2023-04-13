@@ -21,7 +21,7 @@ export default function Footer() {
         >
           Upload,{" "}
         </a>
-        and{" "}
+        e{" "}
         <a
           href="https://vercel.com/"
           target="_blank"
@@ -37,7 +37,7 @@ export default function Footer() {
           rel="noreferrer"
           className="font-bold transition hover:text-black/50"
         >
-          Nutlope @ Vercel.
+          Nutlope & Vercel.
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
