@@ -28,7 +28,7 @@ export default function Footer() {
           rel="noreferrer"
           className="font-bold transition hover:text-black/50"
         >
-          Vercel.
+          Vercel{" "}.
         </a>
         Projeto original de autoria de {" "}
         <a

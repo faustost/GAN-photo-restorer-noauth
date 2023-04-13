@@ -4,7 +4,7 @@ const testimonials = [
   [
     {
       content:
-        "Just had early access to this and it's *ridic*. Powered by @vercel x @replicatehq – also very fast.",
+        "Esse projeto é o bicho. GANs são demais! Quero aprender mais sobre IA agora no Lamfo!",
       link: "https://twitter.com/rauchg/status/1612233034622984192",
       author: {
         name: "Guillermo Rauch",
@@ -12,21 +12,11 @@ const testimonials = [
         image: "/g.jpg",
       },
     },
-    // {
-    //   content:
-    //     "This is amazing! And in the 🧵 you can see the whole open-source stack instantly deployable to Vercel",
-    //   link: "https://twitter.com/cramforce/status/1612496954218672128",
-    //   author: {
-    //     name: "Malte Ubl",
-    //     role: "CTO at Vercel",
-    //     image: "/malte.jpg",
-    //   },
-    // },
   ],
   [
     {
       content:
-        "I just used it and am extremely impressed with the website and wanted to express my appreciation for the excellent design and functionality. Keep up the great work!",
+        "Estou impressionado! Mal conseguia me reconhecer na foto, e agora pareço um artista de Hollywood! Demais!",
       link: "https://twitter.com/phar_whaz/status/1612498030627852309",
       author: {
         name: "Fawaz Adeniji",
@@ -34,21 +24,11 @@ const testimonials = [
         image: "/fawaz.jpg",
       },
     },
-    // {
-    //   content:
-    //     "Turning blurred photos into perfectly sharp ones. Works like magic",
-    //   link: "https://twitter.com/sergvind/status/1612610058369515521",
-    //   author: {
-    //     name: "Sergei Vinderskikh",
-    //     role: "CPO at Treeum",
-    //     image: "/sergei.jpg",
-    //   },
-    // },
   ],
   [
     {
       content:
-        "I've just used it and damn I'll keep coming back! This is so good. Great work!",
+        "Animal! Não sabia que GANs eram tão legais!",
       link: "https://twitter.com/Himanil_Gole/status/1612510385504157697",
       author: {
         name: "Himanil Gole",
@@ -56,16 +36,6 @@ const testimonials = [
         image: "/himanil.jpg",
       },
     },
-    // {
-    //   content:
-    //     "Wow, thank you! Tried a few and love it! My small example (pic of father from 70s original on right), really cleaned it up!",
-    //   link: "https://twitter.com/rod_ellison/status/1612513333302775809",
-    //   author: {
-    //     name: "Rod Ellison",
-    //     role: "Software Engineer",
-    //     image: "/rod.jpg",
-    //   },
-    // },
   ],
 ];
 
