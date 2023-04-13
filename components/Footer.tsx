@@ -28,7 +28,7 @@ export default function Footer() {
           rel="noreferrer"
           className="font-bold transition hover:text-black/50"
         >
-          Vercel{" "}.
+          Vercel.{" "}
         </a>
         Projeto original de autoria de {" "}
         <a
@@ -37,7 +37,7 @@ export default function Footer() {
           rel="noreferrer"
           className="font-bold transition hover:text-black/50"
         >
-          Nutlope.
+          Nutlope @ Vercel.
         </a>
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
