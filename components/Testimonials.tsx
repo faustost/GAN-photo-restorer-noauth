@@ -12,16 +12,16 @@ const testimonials = [
         image: "/g.jpg",
       },
     },
-    {
-      content:
-        "This is amazing! And in the 🧵 you can see the whole open-source stack instantly deployable to Vercel",
-      link: "https://twitter.com/cramforce/status/1612496954218672128",
-      author: {
-        name: "Malte Ubl",
-        role: "CTO at Vercel",
-        image: "/malte.jpg",
-      },
-    },
+    // {
+    //   content:
+    //     "This is amazing! And in the 🧵 you can see the whole open-source stack instantly deployable to Vercel",
+    //   link: "https://twitter.com/cramforce/status/1612496954218672128",
+    //   author: {
+    //     name: "Malte Ubl",
+    //     role: "CTO at Vercel",
+    //     image: "/malte.jpg",
+    //   },
+    // },
   ],
   [
     {
@@ -34,16 +34,16 @@ const testimonials = [
         image: "/fawaz.jpg",
       },
     },
-    {
-      content:
-        "Turning blurred photos into perfectly sharp ones. Works like magic",
-      link: "https://twitter.com/sergvind/status/1612610058369515521",
-      author: {
-        name: "Sergei Vinderskikh",
-        role: "CPO at Treeum",
-        image: "/sergei.jpg",
-      },
-    },
+    // {
+    //   content:
+    //     "Turning blurred photos into perfectly sharp ones. Works like magic",
+    //   link: "https://twitter.com/sergvind/status/1612610058369515521",
+    //   author: {
+    //     name: "Sergei Vinderskikh",
+    //     role: "CPO at Treeum",
+    //     image: "/sergei.jpg",
+    //   },
+    // },
   ],
   [
     {
@@ -56,16 +56,16 @@ const testimonials = [
         image: "/himanil.jpg",
       },
     },
-    {
-      content:
-        "Wow, thank you! Tried a few and love it! My small example (pic of father from 70s original on right), really cleaned it up!",
-      link: "https://twitter.com/rod_ellison/status/1612513333302775809",
-      author: {
-        name: "Rod Ellison",
-        role: "Software Engineer",
-        image: "/rod.jpg",
-      },
-    },
+    // {
+    //   content:
+    //     "Wow, thank you! Tried a few and love it! My small example (pic of father from 70s original on right), really cleaned it up!",
+    //   link: "https://twitter.com/rod_ellison/status/1612513333302775809",
+    //   author: {
+    //     name: "Rod Ellison",
+    //     role: "Software Engineer",
+    //     image: "/rod.jpg",
+    //   },
+    // },
   ],
 ];
 
@@ -79,10 +79,10 @@ export function Testimonials() {
       <div className="mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mx-auto md:text-center">
           <h1 className="mx-auto max-w-4xl font-display text-4xl font-bold tracking-normal text-slate-900 sm:text-6xl">
-            Loved by many worldwide.
+            Adorado por usuários no mundo inteiro.
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-lg text-slate-700 leading-7">
-            See what our 200,000+ users are saying about the product.
+            Veja o que milhares de usuários estão dizendo sobre este produto.
           </p>
         </div>
         <ul

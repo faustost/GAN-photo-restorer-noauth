@@ -17,7 +17,7 @@ export default function Header() {
         </h1>
       </Link>
       <a
-        href="https://vercel.com/templates/next.js/ai-photo-restorer"
+        href="https://lamfo.unb.br/"
         target="_blank"
         rel="noreferrer"
       >
