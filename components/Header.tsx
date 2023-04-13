@@ -12,8 +12,8 @@ export default function Header() {
           width={36}
           height={36}
         />
-        <h1 className="sm:text-5xl text-3xl font-bold ml-2 tracking-tight">
-          AI Photo Restorer - GAN Workshop @ Lamfo/UnB
+        <h1 className="sm:text-3xl text-xl font-bold ml-2 tracking-tight">
+          Restaurador de fotos - Oficina GAN @ Lamfo/UnB
         </h1>
       </Link>
       <a
