@@ -23,7 +23,7 @@ export default function Header() {
       >
         <Image
           alt="Vercel Icon"
-          src="/vercelLogo.png"
+          src="/LamfoUnB-1.png"
           className="sm:w-10 sm:h-[34px] w-8 h-[28px]"
           width={32}
           height={28}
