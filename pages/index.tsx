@@ -36,10 +36,10 @@ const Home: NextPage = () => {
         <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
           Você tem fotos antigas ou borradas? Nossa IA baseada em Redes Adversárias Generativas (GANs) pode restaurá-las!
         </p>
-        <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
+        <p className="mx-auto mt-6 max-w-xl text-lg font-bold text-slate-700 leading-7">
           Restaure suas fotos hoje mesmo, 100% grátis!
         </p>
-        <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
+        <p className="mx-auto mt-6 max-w-xl text-sm text-slate-700 leading-7">
           * Exemplo apresentado na Oficina sobre GAN do Laboratório de Aprendizado de Máquinas em Finanças e Organizações, da Universidade de Brasília (Lamfo/UnB). 
           Adaptado de projeto de autoria de Nutlope & Vercel (veja abaixo).
         </p>
