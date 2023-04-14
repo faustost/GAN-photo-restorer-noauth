@@ -21,7 +21,7 @@ const testimonials = [
       author: {
         name: "Willian Kesley",
         role: "Membro do Lamfo/UnB",
-        image: "/willian.jpg",
+        image: "/willian.JPG",
       },
     },
   ],
