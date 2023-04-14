@@ -29,6 +29,7 @@ const Home: NextPage = () => {
           <span className="relative whitespace-nowrap text-[#3290EE]">
             <SquigglyLines />
             <span className="relative">usando IA.</span>
+            </span>
         </h1>
 
         <p className="mx-auto mt-12 max-w-xl text-lg font-bold text-slate-700 leading-7">
