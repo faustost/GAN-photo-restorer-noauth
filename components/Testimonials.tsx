@@ -5,11 +5,11 @@ const testimonials = [
     {
       content:
         "Esse projeto é o bicho. GANs são demais! Quero aprender mais sobre IA agora no Lamfo!",
-      link: "https://twitter.com/rauchg/status/1612233034622984192",
+      link: "https://lamfo.unb.br/members/",
       author: {
-        name: "Guillermo Rauch",
-        role: "CEO at Vercel",
-        image: "/g.jpg",
+        name: "Fausto Sá Teles",
+        role: "Membro do Lamfo/UnB",
+        image: "/me-new.jpg",
       },
     },
   ],
@@ -17,11 +17,11 @@ const testimonials = [
     {
       content:
         "Estou impressionado! Mal conseguia me reconhecer na foto, e agora pareço um artista de Hollywood! Demais!",
-      link: "https://twitter.com/phar_whaz/status/1612498030627852309",
+      link: "https://lamfo.unb.br/members/",
       author: {
-        name: "Fawaz Adeniji",
-        role: "Software Engineer",
-        image: "/fawaz.jpg",
+        name: "Willian Kesley",
+        role: "Membro do Lamfo/UnB",
+        image: "/willian.jpg",
       },
     },
   ],
@@ -29,11 +29,11 @@ const testimonials = [
     {
       content:
         "Animal! Não sabia que GANs eram tão legais!",
-      link: "https://twitter.com/Himanil_Gole/status/1612510385504157697",
+      link: "https://lamfo.unb.br/members/",
       author: {
-        name: "Himanil Gole",
-        role: "Designer & Founder at CBREX",
-        image: "/himanil.jpg",
+        name: "Pedro Zarur",
+        role: "Membro do Lamfo/UnB",
+        image: "/pedrozarur.jpg",
       },
     },
   ],
@@ -49,10 +49,10 @@ export function Testimonials() {
       <div className="mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mx-auto md:text-center">
           <h1 className="mx-auto max-w-4xl font-display text-4xl font-bold tracking-normal text-slate-900 sm:text-6xl">
-            Adorado por usuários no mundo inteiro.
+            Adorado por usuários no Brasil inteiro.
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-lg text-slate-700 leading-7">
-            Veja o que milhares de usuários estão dizendo sobre este produto.
+            Veja o que nossos usuários estão dizendo sobre este produto.
           </p>
         </div>
         <ul

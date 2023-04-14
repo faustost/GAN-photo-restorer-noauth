@@ -11,7 +11,7 @@ const Home: NextPage = () => {
   return (
     <div className="flex max-w-6xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>Restaurador de Fotos</title>
+        <title>Restaurador de Fotos com IA (GAN)</title>
       </Head>
 
       <Header />
@@ -22,26 +22,21 @@ const Home: NextPage = () => {
           rel="noreferrer"
           className="border rounded-2xl py-1 px-4 text-slate-500 text-sm mb-5 hover:scale-105 transition duration-300 ease-in-out"
         >
-          Utilizado por mais de <span className="font-semibold">3 zilhões</span> de usuários!
+          Utilizado por <span className="font-semibold">mais usuários</span> do que você imagina!
         </a>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-slate-900 sm:text-7xl">
           Restauração de fotos antigas{" "}
           <span className="relative whitespace-nowrap text-[#3290EE]">
             <SquigglyLines />
-            <span className="relative">usando IA</span>
-          </span>{" "}
-          para todos.
+            <span className="relative">usando IA.</span>
         </h1>
 
-        <p className="mx-auto mt-12 max-w-xl text-lg text-slate-700 leading-7">
-          Você tem fotos antigas ou borradas? Nossa IA baseada em Redes Adversárias Generativas (GANs) pode restaurá-las!
-        </p>
-        <p className="mx-auto mt-6 max-w-xl text-lg font-bold text-slate-700 leading-7">
-          Restaure suas fotos hoje mesmo, 100% grátis!
+        <p className="mx-auto mt-12 max-w-xl text-lg font-bold text-slate-700 leading-7">
+          Você tem fotos antigas ou borradas? Nossa IA baseada em Redes Adversárias Generativas (GANs) pode restaurá-las! 100% gratuito!
         </p>
         <p className="mx-auto mt-6 max-w-xl text-sm text-slate-700 leading-7">
-          * Exemplo apresentado na Oficina sobre GAN do Laboratório de Aprendizado de Máquinas em Finanças e Organizações, da Universidade de Brasília (Lamfo/UnB). 
-          Adaptado de projeto de autoria de Nutlope & Vercel (veja abaixo).
+          * Exemplo de aplicação de Redes Adversárias Generativas (GAN) apresentado em oficina do Laboratório de Aprendizado de Máquinas em Finanças e Organizações, da Universidade de Brasília (Lamfo/UnB). 
+          Adaptado de projeto de autoria de Nutlope (vide rodapé) *
         </p>
         <div className="flex justify-center space-x-4">
           <a
