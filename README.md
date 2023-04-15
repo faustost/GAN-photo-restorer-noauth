@@ -1,8 +1,7 @@
-# This repository was cloned from a project by @nutlope (Hassan El Mghari).
-
+## This repository was cloned from a project by @nutlope (Hassan El Mghari).
 ## See his instructions below.
 
-## ** Used as an example of real Generative Adversarial Networks (GAN) application, in a workshop at the Machine Learning Laboratory in Finance and Organizations, at the University of Brasília, on 15/04/2023.
+### ** Used as an example of real Generative Adversarial Networks (GAN) application, in a workshop at the Machine Learning Laboratory in Finance and Organizations, at the University of Brasília, on 15/04/2023.
 
 ---
 
